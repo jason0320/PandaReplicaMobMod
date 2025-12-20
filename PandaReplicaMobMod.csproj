@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Mod_PandaReplicaMobMod</AssemblyName>
+    <RootNamespace>Mod_PandaReplicaMobMod</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>C:\Users\User\Documents\BepInEx\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Core">
+      <HintPath>C:\Users\User\Documents\BepInEx\BepInEx.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Unity">
+      <HintPath>C:\Users\User\Documents\BepInEx\BepInEx.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Elin">
+      <HintPath>C:\Users\User\Documents\Elin\Elin.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugins">
+      <HintPath>C:\Users\User\Documents\Elin\Plugins.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugins.BaseCore">
+      <HintPath>C:\Users\User\Documents\Elin\Plugins.BaseCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugins.Sound">
+      <HintPath>C:\Users\User\Documents\Elin\Plugins.Sound.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugins.UI">
+      <HintPath>C:\Users\User\Documents\Elin\Plugins.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Reflex">
+      <HintPath>C:\Users\User\Documents\Elin\Reflex.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Users\User\Documents\Elin\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>C:\Users\User\Documents\Elin\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Users\User\Documents\Elin\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>C:\Users\User\Documents\Elin\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:\Users\User\Documents\Elin\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>C:\Users\User\Documents\Elin\UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

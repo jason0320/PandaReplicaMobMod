@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Panda's Replica Mob Mod</title>
+  <id>Mod_PandaReplicaMobMod</id>
+  <author>Now Happy Panda</author>
+  <loadPriority>100</loadPriority>
+  <description>Add several machine mobs that spawn with replica god weapon</description>
+  <version>0.23.250</version>
+</Meta>
